@@ -1,0 +1,33 @@
+input,label{
+    display: block;
+    font-size: 23px;
+    margin: 10px;
+}
+
+input{
+    box-shadow: 2px 2px 5px grey;
+}
+
+button{
+    padding: 5px 10px;
+    font-size: 17px;
+    color: white;
+    box-shadow: 2px 2px 5px grey;
+    background-color: blueviolet;
+    border-radius: 50px;
+}
+
+button:hover{
+    padding: 6px 11px;
+    font-size: 18px;
+    background-color: rgb(136, 36, 230);
+    transition: 0.4s;
+}
+
+h1,label{
+   text-shadow : 2px 2px 4px grey;
+}
+
+label{
+    font-size: 25px;
+}
